@@ -92,6 +92,8 @@ label {
     height: 1.75rem;
     appearance: none;
     background-image: url(./assets/images/icon-plus.svg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .faq-desc {
